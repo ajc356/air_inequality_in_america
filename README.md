@@ -1,4 +1,4 @@
-# Air (Ine)quality in America - Metis Intro to Data Science Project
+# Air (Ine)quality in America - Metis Intro to Data Science Final Project
 
 Who breathes dirty air in America and where are they located? This project explores the problem of inequality in air quality in America using unsupervised learning. Specifically this project seeks to gain insight into whether or not counties with similar air quality share other similar socio-economic characteristics using K-means clustering. After determining the number of clusters, I use the Python `plotly` library to create a colormaped representation of where counties in each of these clusters are located to offer further insight into their geographic characteristics. 
 
