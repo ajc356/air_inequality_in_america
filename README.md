@@ -10,5 +10,3 @@ Census data: https://web.archive.org/web/20150821182814/http://quickfacts.census
 - codebook https://web.archive.org/web/20150821061818/http://quickfacts.census.gov/qfd/download/DataDict.txt
 
 USDA data: https://www.ers.usda.gov/data-products/county-level-data-sets/
-
-Note: Due to github limits on file sizes, it is possible that Cheney_IDS_Metis_Final_Project_Air_Quality.ipynb and CheneyAirQuality-visuals.ipynb may not open, which is unfortunate as they contain a beautiful plotly map key to my analysis. However, everything else can be found in CheneyAirQuality_no_map.ipynb
